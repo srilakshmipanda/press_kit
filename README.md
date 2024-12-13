@@ -1,13 +1,6 @@
 
 ## [Github](https://github.com/AnunayAkhaury/ShatteredDimensions/tree/main/shattered-dimensions) ##  
 
-### _Team / Contributors_
-- Abhimanyu Warrier
-- Sri Lakshmi Panda
-- Anunay Akhaury
-- Satya Sanegepalli
-- Janani Asokumar
-
 ## Play our Game
 
 Our game can be played at
@@ -46,17 +39,40 @@ Here is a sneak peak of everything you'll get to experience with our game!
 
 <img width="350" alt="ending" src="https://github.com/user-attachments/assets/e253a84d-393d-42c9-9c34-6854dea3cad7" />    <img width="350" alt="car" src="https://github.com/user-attachments/assets/9679fa9d-080b-4c32-8ad2-3911481e0021" />
 
+
+## Team / Contributors
+
+### _Abhimanyu Warrier_
+Main Role: Platformer Level
+Sub Role: UI/Player Mechanics
+
+### _Sri Lakshmi Panda_
+Main Role: Car Level - Car Physics + Car Chase + Obstacles
+Sub Role: Press Kit + Trailer
+
+### _Anunay Akhaury_
+Main Role: Run & Gun Level
+Sub Role: Cinematics (Final Cutscene), Powerups
+
+### _Satya Sanegepalli_
+Main Role: Spaceship Level
+Sub Role: Prison Lobby
+
+### _Janani Asokumar_
+Main Role: Car Level - Terrain & Enemies
+Sub Role: Cinematics (Initial Cutscene)
+
 ## Contact
 
-Please feel free to contact any of our developers with any bug reports or inputs! The relevant contact info for each aspect of the game is listed below or share your feedback with all as well.
+Please feel free to contact any of our developers with any bug reports or inputs!
 
-[Abhimanyu Warrier](avwarrier@ucdavis.edu)  -  Platformer Level + UI/Player Mechanics
+[Abhimanyu Warrier](avwarrier@ucdavis.edu)
 
-[Satya Sanegapalli](ssanegapalli@ucdavis.edu)  -  Spaceship Level + Prison Lobby
+[Satya Sanegapalli](ssanegapalli@ucdavis.edu)
 
-[Anunay Akhaury](?@ucdavis.edu)  -  RunGun Level + SubRole: (Cinematics, Powerups, Player/Enemy Gun Logic)
+[Anunay Akhaury](?@ucdavis.edu)
 
-[SriLakshmi Panda](slpanda@ucdavis.edu)  -  Car Level (Physics) + Press Kit/Trailer
+[SriLakshmi Panda](slpanda@ucdavis.edu) 
 
-[Janani Asokumar](?@ucdavis.edu)  -  Car Level + Initial Cutscene
+[Janani Asokumar](?@ucdavis.edu)
   
