@@ -1,6 +1,5 @@
 # Shattered Dimensions #
 
----
 ## Contributors
 
 Abhimanyu Warrier
