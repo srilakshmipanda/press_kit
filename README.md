@@ -1,7 +1,7 @@
 # Shattered Dimensions #
 
 ---
-## Contributors ##
+## Contributors
 
 Abhimanyu Warrier
 Sri Lakshmi Panda
