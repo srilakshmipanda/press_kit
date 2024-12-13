@@ -41,10 +41,10 @@ Here is a sneak peak of everything you'll get to experience with our game!
 
 ## Images ##
 
-<img width="500" alt="prison" src="https://github.com/user-attachments/assets/6c81ced1-0108-47e5-bca0-70726aa0bee4" />    <img width="500" alt="platform" src="https://github.com/user-attachments/assets/38f0844a-956c-45b5-83b5-37ea1e8f228d" />
+<img width="350" alt="prison" src="https://github.com/user-attachments/assets/6c81ced1-0108-47e5-bca0-70726aa0bee4" />    <img width="350" alt="platform" src="https://github.com/user-attachments/assets/38f0844a-956c-45b5-83b5-37ea1e8f228d" />
 
 
-<img width="500" alt="ending" src="https://github.com/user-attachments/assets/e253a84d-393d-42c9-9c34-6854dea3cad7" />    <img width="500" alt="car" src="https://github.com/user-attachments/assets/9679fa9d-080b-4c32-8ad2-3911481e0021" />
+<img width="350" alt="ending" src="https://github.com/user-attachments/assets/e253a84d-393d-42c9-9c34-6854dea3cad7" />    <img width="350" alt="car" src="https://github.com/user-attachments/assets/9679fa9d-080b-4c32-8ad2-3911481e0021" />
 
 ## Contact
 
