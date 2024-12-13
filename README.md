@@ -1,9 +1,7 @@
 
 ## [Github](https://github.com/AnunayAkhaury/ShatteredDimensions/tree/main/shattered-dimensions) ##  
 
----
-
-### _Contributors_
+### _Team / Contributors_
 - Abhimanyu Warrier
 - Sri Lakshmi Panda
 - Anunay Akhaury
@@ -40,6 +38,13 @@ Shattered Dimensions is a prison escape game focused on a space explorer who has
 Here is a sneak peak of everything you'll get to experience with our game!
 
 [<img width="1431" alt="trailer_thumbnail" src="https://github.com/user-attachments/assets/ac54c940-0fe2-4032-be15-f5ec7cdbfc34" />](https://youtu.be/-zDo1VSA-OQ)
+
+## Images ##
+
+<img width="500" alt="prison" src="https://github.com/user-attachments/assets/6c81ced1-0108-47e5-bca0-70726aa0bee4" />    <img width="500" alt="platform" src="https://github.com/user-attachments/assets/38f0844a-956c-45b5-83b5-37ea1e8f228d" />
+
+
+<img width="500" alt="ending" src="https://github.com/user-attachments/assets/e253a84d-393d-42c9-9c34-6854dea3cad7" />    <img width="500" alt="car" src="https://github.com/user-attachments/assets/9679fa9d-080b-4c32-8ad2-3911481e0021" />
 
 ## Contact
 
