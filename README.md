@@ -1,3 +1,4 @@
+<img width="703" alt="description_img" src="https://github.com/user-attachments/assets/29c5eb92-f73c-4751-8a96-af77d45707c1" />
 
 ## [Github](https://github.com/AnunayAkhaury/ShatteredDimensions/tree/main/shattered-dimensions) ##  
 
@@ -23,8 +24,6 @@ Shattered Dimensions is a prison escape game focused on a space explorer who has
 - _Keyboard controlled_
 - _Diverging storylines_
 - Multiple kinds of games all in one game!
-
-img width="703" alt="description_img" src="https://github.com/user-attachments/assets/29c5eb92-f73c-4751-8a96-af77d45707c1"    
  
 ## Trailer ##
 
