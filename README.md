@@ -45,23 +45,23 @@ Here is a sneak peak of everything you'll get to experience with our game!
 ## Team / Contributors
 
 ### _Abhimanyu Warrier_
-Main Role: Platformer Level
+Main Role: Platformer Level  
 Sub Role: UI/Player Mechanics
 
 ### _Sri Lakshmi Panda_
-Main Role: Car Level - Car Physics + Car Chase + Obstacles
+Main Role: Car Level - Car Physics + Car Chase + Obstacles  
 Sub Role: Press Kit + Trailer
 
 ### _Anunay Akhaury_
-Main Role: Run & Gun Level
+Main Role: Run & Gun Level  
 Sub Role: Cinematics (Final Cutscene), Powerups
 
 ### _Satya Sanegepalli_
-Main Role: Spaceship Level
+Main Role: Spaceship Level  
 Sub Role: Prison Lobby
 
 ### _Janani Asokumar_
-Main Role: Car Level - Terrain & Enemies
+Main Role: Car Level - Terrain & Enemies  
 Sub Role: Cinematics (Initial Cutscene)
 
 ## Contact
