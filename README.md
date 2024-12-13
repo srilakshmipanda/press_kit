@@ -1,5 +1,5 @@
 
-[### Github ###](https://github.com/AnunayAkhaury/ShatteredDimensions/tree/main/shattered-dimensions)
+### [Github](https://github.com/AnunayAkhaury/ShatteredDimensions/tree/main/shattered-dimensions) ###
 
 ### Contributors ###
 
