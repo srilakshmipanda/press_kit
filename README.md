@@ -1,7 +1,5 @@
 <img width="703" alt="description_img" src="https://github.com/user-attachments/assets/29c5eb92-f73c-4751-8a96-af77d45707c1" />
 
-## [Github](https://github.com/AnunayAkhaury/ShatteredDimensions/tree/main/shattered-dimensions) ##  
-
 ## Play our Game
 
 Our game can be played at
@@ -38,6 +36,12 @@ Here is a sneak peak of everything you'll get to experience with our game!
 | <img width="450" alt="ending" src="https://github.com/user-attachments/assets/e253a84d-393d-42c9-9c34-6854dea3cad7" /> | <img width="450" alt="car" src="https://github.com/user-attachments/assets/9679fa9d-080b-4c32-8ad2-3911481e0021" /> | 
 
 | <img width="450" alt="shooter" src="https://github.com/user-attachments/assets/02ae4eaf-7584-4e69-9c10-9a08d05c1c6a" /> | <img width="450" alt="space" src="https://github.com/user-attachments/assets/7abf5ccc-6888-4a86-a3c5-46370a3f4c31" /> |
+
+## Documentation and Source Code ##
+
+### [Github](https://github.com/AnunayAkhaury/ShatteredDimensions/tree/main/shattered-dimensions)
+### [Project Document](https://github.com/AnunayAkhaury/ShatteredDimensions/blob/main/ProjectDocument.md)
+
 
 ## Team / Contributors
 
