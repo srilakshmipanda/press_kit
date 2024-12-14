@@ -39,8 +39,8 @@ Here is a sneak peak of everything you'll get to experience with our game!
 
 ## Documentation and Source Code ##
 
-### [Github](https://github.com/AnunayAkhaury/ShatteredDimensions/tree/main/shattered-dimensions)
-### [Project Document](https://github.com/AnunayAkhaury/ShatteredDimensions/blob/main/ProjectDocument.md)
+#### [Github](https://github.com/AnunayAkhaury/ShatteredDimensions/tree/main/shattered-dimensions)
+#### [Project Document](https://github.com/AnunayAkhaury/ShatteredDimensions/blob/main/ProjectDocument.md)
 
 
 ## Team / Contributors
